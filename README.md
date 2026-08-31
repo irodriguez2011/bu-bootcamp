@@ -8,6 +8,7 @@ A central repository for coursework, practice exercises, and foundational projec
 * **Goal:** Build a solid technical foundation for advanced graduate coursework.
 
 ## 🛠 Tech Stack & Tools
+* **Languages:** Java, Python
 * **Software Engineering:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Code Architecture
 * **Data Science:** Data Analysis, Statistical Concepts, and Data Manipulation 
 * **Development Environment:** Git/GitHub, IDEs, Command Line Interfaces
